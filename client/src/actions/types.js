@@ -1,0 +1,9 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const GET_USERS = 'GET_USERS';
+export const ADD_USER = 'ADD_USER';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_ERROR = 'USER_ERROR';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const DELETE_USER = 'DELETE_USER';
